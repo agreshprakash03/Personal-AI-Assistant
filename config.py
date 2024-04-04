@@ -1,0 +1,1 @@
+apikey = "open_ai api"
